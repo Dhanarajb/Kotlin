@@ -1,5 +1,5 @@
 # Kotlin
-```
+
 <img width="577" alt="image" src="https://github.com/Dhanarajb/Kotlin/assets/88299676/12811b7b-1111-4e23-a2e7-a22ec957ec38">
 ---
 <img width="556" alt="image" src="https://github.com/Dhanarajb/Kotlin/assets/88299676/74d69213-cba5-4008-968b-4ee762b847b2">
@@ -30,4 +30,4 @@
 ---
 <img width="281" alt="image" src="https://github.com/Dhanarajb/Kotlin/assets/88299676/bf8d2f4e-721d-42c3-a58f-52c601b73913">
 ---
-```
+
